@@ -5,10 +5,9 @@ This project features an interactive Power BI dashboard designed to analyze the 
 
 ### 📊 View the Dashboard Screenshots
 <img width="855" height="406" alt="home" src="https://github.com/user-attachments/assets/0809e8c4-f213-4edd-96e0-4f3df03d8692" />
-
 <img width="858" height="408" alt="executive summary" src="https://github.com/user-attachments/assets/79ed8f56-ab0c-46ae-8fbb-a7548133c77d" />
-<img width="854" height="407" alt="product analysis" src="https://github.com/user-attachments/assets/18aee522-917d-4ece-8499-fca15ee0b26e" />
 <img width="857" height="408" alt="salesmen performance" src="https://github.com/user-attachments/assets/b51e7cbe-f092-469e-ab17-cb90720cbd9a" />
+<img width="854" height="407" alt="product analysis" src="https://github.com/user-attachments/assets/18aee522-917d-4ece-8499-fca15ee0b26e" />
 <img width="857" height="405" alt="insights recommendation" src="https://github.com/user-attachments/assets/3b645f5a-9616-4460-ba49-8b12573e7059" />
 
 
